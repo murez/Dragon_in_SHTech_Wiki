@@ -1,6 +1,8 @@
 # Dragon_in_SHTech_Wiki
 A Wiki for Mr. Dragon.
-![](https://tuchuang-murez.oss-cn-shanghai.aliyuncs.com/img/20200408225506.svg)
+
+![](https://tuchuang-murez.oss-cn-shanghai.aliyuncs.com/img/20200408230007.png)
+
 --------
 🚧施工中
 ## feature
